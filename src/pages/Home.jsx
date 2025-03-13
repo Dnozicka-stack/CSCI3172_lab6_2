@@ -3,7 +3,7 @@ function Home() {
     <div className="home-container">
       <div className="profile-section">
         <div className="profile-image">
-          <img src="//imgs/headshot.jpg" alt="Dino's profile" />
+          <img src="../../imgs/headshot.jpg" alt="Dino's profile" />
         </div>
         <div className="profile-description">
           <h1>Hi, I'm Dino!</h1>
