@@ -20,7 +20,7 @@ function Resume() {
 
           <div className="ratio ratio-16x9">
             <iframe
-              src="/files/Dino-Nozicka-Resume.pdf"
+              src="//files/Dino-Nozicka-Resume.pdf"
               title="Resume"
               width="100%"
               height="800px"
