@@ -6,7 +6,7 @@ function Home() {
           <img src="/imgs/headshot.jpg" alt="Dino's profile" />
         </div>
         <div className="profile-description">
-          <h1>Hi, I'm Dino!</h1>
+          <h1>Dino Nozicka</h1>
           <p>Welcome to my portfolio!</p>
           <p>I'm a computer science co-op student at Dalhousie University. Primarily 
             interested in Web Development, full stack development, and machine learning. 
